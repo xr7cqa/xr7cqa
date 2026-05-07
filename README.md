@@ -65,3 +65,11 @@
 **📲 تابعني على تيليجرام واختر القناة التي تناسبك**
 
 </div>
+---
+
+## 🌐 صفحات تعريفية للقنوات
+
+- أخبار الذكاء الاصطناعي بالعربية: https://xr7cqa.github.io/arabic-ai-news.html
+- الأمن السيبراني العربي: https://xr7cqa.github.io/arab-cybersecurity.html
+- مشاريع Python بالعربية: https://xr7cqa.github.io/arabic-python-projects.html
+- برومبتات ChatGPT وClaude وGemini وGrok بالعربية: https://xr7cqa.github.io/arabic-ai-prompts.html
